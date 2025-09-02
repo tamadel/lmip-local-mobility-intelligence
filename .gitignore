@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# DBeaver workspace files
+.dbeaver/
+*.dbeaver-data-sources.xml
+
+# Python/venv (later)
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
