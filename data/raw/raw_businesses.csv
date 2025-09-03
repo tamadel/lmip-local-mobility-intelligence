@@ -1,0 +1,25 @@
+business_id,name,category,is_mobility_domain,website,phone,address_full,city,postal_code,country,source_system
+1,Swift Hub 1,E‑Scooter Rental,True,https://swifthub1.chargeup.ch,+41 34 792 79 21,"Schaffhauserstrasse 32, 8005 Zürich, Switzerland",Zürich,8005,Switzerland,Moneyhouse.ch
+2,Metro Hub 2,Mobility Consulting,True,https://metrohub2.bikeswiss.ch,+41 52 267 69 58,"Langstrasse 78, 4001 Basel, Switzerland",Basel,4001,Switzerland,Search.ch
+3,Swift Wheels 3,Pet Store,False,https://swiftwheels3.example.com,+41 28 346 82 20,"Universitätsstrasse 113A, 8005 Zürich, Switzerland",Zürich,8005,Switzerland,Search.ch
+4,Urban Wheels 4,Pet Store,False,https://urbanwheels4.escoots.io,+41 22 195 40 31,"Marktgasse 104, 8001 Zürich, Switzerland",Zürich,8001,Switzerland,Moneyhouse.ch
+5,Eco Wheels 5,Car‑Sharing Hub,True,https://ecowheels5.chargeup.ch,+41 77 953 79 48,"Limmatquai 48A, 8005 Zürich, Switzerland",Zürich,8005,Switzerland,Search.ch
+6,Urban Hub 6,Bike Shop,True,https://urbanhub6.example.com,+41 52 373 30 99,"Universitätsstrasse 101B, 9000 St. Gallen, Switzerland",St. Gallen,9000,Switzerland,Moneyhouse.ch
+7,Nova Ride 7,Car‑Sharing Hub,True,https://novaride7.chargeup.ch,+41 57 315 65 84,"Schaffhauserstrasse 52, 8400 Winterthur, Switzerland",Winterthur,8400,Switzerland,Search.ch
+8,Eco Ride 8,Café,False,https://ecoride8.example.com,+41 70 810 29 37,"Langstrasse 18, 8005 Zürich, Switzerland",Zürich,8005,Switzerland,Moneyhouse.ch
+9,Urban Mobility 9,Car‑Sharing Hub,True,https://urbanmobility9.bikeswiss.ch,+41 48 576 99 42,"Marktgasse 86, 4001 Basel, Switzerland",Basel,4001,Switzerland,Google Maps
+10,Swift Ride 10,Gym,False,https://swiftride10.consultmob.ch,+41 73 600 81 40,"Limmatquai 11, 6003 Luzern, Switzerland",Luzern,6003,Switzerland,Moneyhouse.ch
+11,Nova Charge 11,E‑Scooter Rental,True,https://novacharge11.bikeswiss.ch,+41 87 489 67 66,"Spisergasse 77, 9000 St. Gallen, Switzerland",St. Gallen,9000,Switzerland,Search.ch
+12,Metro Charge 12,Gym,False,https://metrocharge12.escoots.io,+41 83 193 70 54,"Schaffhauserstrasse 24B, 6003 Luzern, Switzerland",Luzern,6003,Switzerland,Moneyhouse.ch
+13,Eco Wheels 13,Gym,False,https://ecowheels13.chargeup.ch,+41 83 986 29 67,"Schaffhauserstrasse 93A, 9000 St. Gallen, Switzerland",St. Gallen,9000,Switzerland,Moneyhouse.ch
+14,Eco Cycles 14,Mobility Consulting,True,https://ecocycles14.mobility.ch,+41 73 679 97 33,"Gerbergasse 19, 4001 Basel, Switzerland",Basel,4001,Switzerland,Google Maps
+15,Metro Wheels 15,Car‑Sharing Hub,True,https://metrowheels15.bikeswiss.ch,+41 67 849 26 21,"Bahnhofstrasse 40B, 8001 Zürich, Switzerland",Zürich,8001,Switzerland,Moneyhouse.ch
+16,Swift Hub 16,Mobility Consulting,True,https://swifthub16.consultmob.ch,+41 51 975 56 22,"Universitätsstrasse 28B, 3001 Bern, Switzerland",Bern,3001,Switzerland,Moneyhouse.ch
+17,Prime Charge 17,Bike Shop,True,https://primecharge17.chargeup.ch,+41 77 175 20 51,"Gerbergasse 88, 3001 Bern, Switzerland",Bern,3001,Switzerland,Google Maps
+18,Swift Mobility 18,Mobility Consulting,True,https://swiftmobility18.chargeup.ch,+41 65 106 33 28,"Schaffhauserstrasse 90A, 8400 Winterthur, Switzerland",Winterthur,8400,Switzerland,Search.ch
+19,Nova Hub 19,Bakery,False,https://novahub19.example.com,+41 71 982 15 65,"Limmatquai 65A, 8001 Zürich, Switzerland",Zürich,8001,Switzerland,Moneyhouse.ch
+20,Swift Wheels 20,Pet Store,False,https://swiftwheels20.escoots.io,+41 32 729 86 74,"Universitätsstrasse 107A, 8001 Zürich, Switzerland",Zürich,8001,Switzerland,Moneyhouse.ch
+21,Urban Mobility 21,Mobility Consulting,True,https://urbanmobility21.bikeswiss.ch,+41 49 240 29 19,"Universitätsstrasse 99B, 8005 Zürich, Switzerland",Zürich,8005,Switzerland,Google Maps
+22,Prime Cycles 22,Public Charging Station,True,https://primecycles22.example.com,+41 85 482 40 59,"Bahnhofstrasse 54, 3001 Bern, Switzerland",Bern,3001,Switzerland,Moneyhouse.ch
+23,Metro Hub 23,Car‑Sharing Hub,True,https://metrohub23.chargeup.ch,+41 88 657 74 74,"Langstrasse 68A, 8001 Zürich, Switzerland",Zürich,8001,Switzerland,Google Maps
+24,Eco Cycles 24,Gym,False,https://ecocycles24.consultmob.ch,+41 58 413 67 87,"Langstrasse 11A, 6003 Luzern, Switzerland",Luzern,6003,Switzerland,Moneyhouse.ch
