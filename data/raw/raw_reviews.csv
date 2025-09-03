@@ -1,0 +1,68 @@
+business_id,review_id,rating,text,review_date
+1,fea23c58,5,Great service and friendly staff.,2023-08-27
+1,0c8b463f,3,Average. Could be better.,2023-10-12
+2,7b4e060b,4,Great service and friendly staff.,2023-11-02
+2,5b65ab5a,2,Fast charging and clean facilities.,2023-07-23
+3,e1e062a0,5,Average. Could be better.,2024-02-25
+3,600df5e1,5,Great service and friendly staff.,2023-04-11
+3,13335a3c,3,Average. Could be better.,2023-12-14
+3,b0e82f3d,3,Good location but limited stock.,2023-07-16
+4,15da8520,2,"Excellent experience, highly recommend!",2024-04-13
+4,5fb7fb91,5,Great service and friendly staff.,2023-01-10
+5,ce92ef0f,5,Fast charging and clean facilities.,2024-02-21
+6,c667a41b,2,Great service and friendly staff.,2023-11-04
+6,6f21cb2a,4,"Excellent experience, highly recommend!",2024-02-23
+6,169a66ab,5,Average. Could be better.,2023-10-30
+7,f1ded4d7,4,Average. Could be better.,2023-06-12
+7,5ca37c7f,2,Average. Could be better.,2024-04-05
+7,63282765,5,Good location but limited stock.,2023-10-11
+7,ce65694f,4,Average. Could be better.,2023-09-02
+8,b706056e,3,Average. Could be better.,2023-01-20
+8,31c621d5,2,Fast charging and clean facilities.,2023-02-23
+8,a44f1863,5,Good location but limited stock.,2023-03-12
+9,d78d1be3,4,Average. Could be better.,2024-08-06
+9,7d65518f,4,Average. Could be better.,2023-12-11
+9,f75dadfb,3,Average. Could be better.,2023-11-29
+9,50071ac8,4,Average. Could be better.,2023-08-06
+10,df39c408,5,Good location but limited stock.,2023-02-22
+10,27a18f6c,5,Average. Could be better.,2023-04-27
+10,3bfd031e,3,Average. Could be better.,2024-05-18
+10,712c4e39,3,Fast charging and clean facilities.,2023-02-24
+11,abf51587,5,Great service and friendly staff.,2023-02-10
+11,68d8847f,5,"Excellent experience, highly recommend!",2023-09-14
+11,b2b94af0,3,Great service and friendly staff.,2023-08-23
+11,d45280d1,2,Fast charging and clean facilities.,2023-01-22
+12,1433ee27,5,Fast charging and clean facilities.,2023-05-29
+12,0bf58399,5,Good location but limited stock.,2024-06-04
+13,79a9ce77,4,Great service and friendly staff.,2023-03-12
+13,3d01be3b,4,"Excellent experience, highly recommend!",2023-08-21
+13,e9a14746,2,Great service and friendly staff.,2024-03-20
+13,acdc1a09,3,Great service and friendly staff.,2024-03-30
+14,2d1fcd19,4,Average. Could be better.,2023-10-21
+15,2edae1c9,5,Average. Could be better.,2024-01-15
+15,b7a5202d,2,Fast charging and clean facilities.,2024-03-05
+16,4f4ed40a,5,Fast charging and clean facilities.,2023-08-15
+17,255e5bf5,2,Average. Could be better.,2023-08-18
+17,901252d0,3,"Excellent experience, highly recommend!",2024-07-23
+18,cca1bab0,5,Good location but limited stock.,2023-05-21
+18,3bf75a48,5,"Excellent experience, highly recommend!",2023-12-02
+19,be0f9dd9,2,Fast charging and clean facilities.,2023-11-27
+19,e4bcdd06,2,"Excellent experience, highly recommend!",2023-06-04
+19,69f0263e,5,Great service and friendly staff.,2024-04-25
+19,586e271e,5,"Excellent experience, highly recommend!",2023-10-09
+20,7954af4d,4,Fast charging and clean facilities.,2023-03-28
+20,1cfe79ea,5,Fast charging and clean facilities.,2024-01-21
+20,04aaf129,2,"Excellent experience, highly recommend!",2023-05-11
+20,450e642d,2,Fast charging and clean facilities.,2023-04-06
+21,1844a869,5,Great service and friendly staff.,2023-06-14
+22,67083d36,3,Great service and friendly staff.,2024-05-26
+22,c731b00c,4,Fast charging and clean facilities.,2023-01-17
+22,0a3f4c72,2,Fast charging and clean facilities.,2024-08-11
+22,3b952088,4,Good location but limited stock.,2023-10-26
+23,0600ca67,2,Average. Could be better.,2024-01-31
+23,24982fc3,5,Good location but limited stock.,2024-05-23
+23,ec487bc9,2,Average. Could be better.,2024-01-12
+23,48756c01,4,"Excellent experience, highly recommend!",2023-03-26
+24,1b3253d0,2,Average. Could be better.,2023-07-24
+24,db669379,3,Good location but limited stock.,2023-03-17
+24,7801db02,5,Good location but limited stock.,2024-03-31
