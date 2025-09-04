@@ -19,7 +19,7 @@ SELECT
 	,substring(
 				trim(split_part(address_full, ',', 1)) 
 	 			FROM '([0-9]{1,5}[A-Za-z]{0,2})\s*$'
-			) 																				                                  AS house_number
+			) 																				AS house_number
 	,city 
 	,postal_code 
 	,country 
