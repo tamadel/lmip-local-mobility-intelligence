@@ -43,10 +43,10 @@ SELECT
 			oh.hours_raw ILIKE '%closed%'
 		THEN 
 			NULL
-		ELSE -- unify dashes and pipes: turn any " – " or " - " into "-"
+		ELSE -- replace Unicode dashes with ASCII hyphen, then normalize pipes
 			trim(regexp_replace(
 						regexp_replace(
-								oh.hours_raw, '[--]', '-', 'g'
+								oh.hours_raw, '[–—−-]', ' - ', 'g'   -- en, em, minus, non-breaking hyphen
 						),
 						'\s*\|\s*', ' | ', 'g'
 				)

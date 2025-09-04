@@ -15,17 +15,11 @@ SELECT
 	,website 
 	,phone 
 	,address_full 
-	,COALESCE(
-				trim(regexp_replace(split_part(address_full, ',', 1), '[0-9].*$', '')) 
-				,address_full
-			) 																	AS street_name
-	,COALESCE(
-				NULLIF(
-					trim(regexp_substr(split_part(address_full, ',', 1), '[0-9].*$'))
-					,address_full
-				)
-					,NULL
-			)																	AS house_number
+	,trim(regexp_replace(split_part(address_full, ',', 1), '[0-9].*$', '')) 				AS street_name
+	,substring(
+				trim(split_part(address_full, ',', 1)) 
+	 			FROM '([0-9]{1,5}[A-Za-z]{0,2})\s*$'
+			) 																				                                  AS house_number
 	,city 
 	,postal_code 
 	,country 
