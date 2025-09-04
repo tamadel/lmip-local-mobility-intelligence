@@ -73,7 +73,7 @@ SELECT
 	n.business_id
 	,n.idx
 	,n.weekday
-	,trim(regexp_replace(rng, '\s*-\s*', '-', 'g')) 				AS range_norm
+	,trim(regexp_replace(rng, '\s*-\s*', ' - ', 'g')) 				AS range_norm
 FROM 
 	silver.wrk_open_hours_norm n
 CROSS JOIN LATERAL 
