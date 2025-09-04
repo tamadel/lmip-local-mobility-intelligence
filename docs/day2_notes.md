@@ -4,7 +4,7 @@
         - row count = 24
         - No Duplicates
         - 1% house_number parsed
-## T2: Opening hours normalization
+## T2: silver_opening_hours
         - row count = 168
         - No empty values
         - businesses with <> 7 rows = none
@@ -17,4 +17,5 @@
                 2	Fri	[07:00 – 20:00]
                 2	Sat	[07:00-17:00]
                 2	Sun	[09:00-20:00 | 11:00-16:00]
+
 
